@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
 
-**pwnagee/pwnagee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on pwnage.xyz
 - 🤔 I’m currently searching for hosting that doesn't kick me off their platform.
