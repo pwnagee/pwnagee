@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on pwnage.xyz
 - 🤔 I’m currently searching for hosting that doesn't kick me off their platform.
 - 💬 Ask me anything.
-- 📫 How to reach me: Email pwn@pwnage.xyz
+- 📫 How to reach me: Email contact@pwnage.xyz
 
 ### Donations
 
